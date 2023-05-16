@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/20 11:58:07.000.131,=C:\Users\muham\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/28 05:08:17.000.393,=C:\Users\muham\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/15 18:21:28.000.990,=C:\Users\muham\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/16 07:53:37.790,=C:\Users\muham\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/16 07:54:24.337,=C:\Users\muham\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/05/16 07:55:49.797,=C:\Users\muham\OneDrive\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2023/05/16 07:57:00.947,=C:\Users\muham\OneDrive\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2023/05/16 07:57:54.838,=C:\Users\muham\OneDrive\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2023/05/16 08:00:07.548,=C:\Users\muham\OneDrive\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/05/16 08:00:30.870,=C:\Users\muham\OneDrive\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2023/05/16 08:01:46.185,=C:\Users\muham\OneDrive\Documents\Embarcadero\Studio\Projects\Unit8.pas</Transaction>
+    <Transaction>2023/05/16 08:05:42.004,D:\Kuliah\smester 4\2110020044\Unit1.dfm=C:\Users\muham\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/05/16 08:05:42.004,D:\Kuliah\smester 4\2110020044\Unit1.pas=C:\Users\muham\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/16 08:05:44.570,D:\Kuliah\smester 4\2110020044\Unit8.dfm=C:\Users\muham\OneDrive\Documents\Embarcadero\Studio\Projects\Unit8.dfm</Transaction>
+    <Transaction>2023/05/16 08:05:44.570,D:\Kuliah\smester 4\2110020044\Unit8.pas=C:\Users\muham\OneDrive\Documents\Embarcadero\Studio\Projects\Unit8.pas</Transaction>
+    <Transaction>2023/05/16 08:05:46.361,D:\Kuliah\smester 4\2110020044\Unit6.pas=C:\Users\muham\OneDrive\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2023/05/16 08:05:46.361,D:\Kuliah\smester 4\2110020044\Unit6.dfm=C:\Users\muham\OneDrive\Documents\Embarcadero\Studio\Projects\Unit6.dfm</Transaction>
+    <Transaction>2023/05/16 08:05:47.759,D:\Kuliah\smester 4\2110020044\Unit7.dfm=C:\Users\muham\OneDrive\Documents\Embarcadero\Studio\Projects\Unit7.dfm</Transaction>
+    <Transaction>2023/05/16 08:05:47.759,D:\Kuliah\smester 4\2110020044\Unit7.pas=C:\Users\muham\OneDrive\Documents\Embarcadero\Studio\Projects\Unit7.pas</Transaction>
+    <Transaction>2023/05/16 08:05:49.203,D:\Kuliah\smester 4\2110020044\Unit2.dfm=C:\Users\muham\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2023/05/16 08:05:49.203,D:\Kuliah\smester 4\2110020044\Unit2.pas=C:\Users\muham\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/05/16 08:05:50.538,D:\Kuliah\smester 4\2110020044\Unit3.dfm=C:\Users\muham\OneDrive\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2023/05/16 08:05:50.538,D:\Kuliah\smester 4\2110020044\Unit3.pas=C:\Users\muham\OneDrive\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2023/05/16 08:05:51.875,D:\Kuliah\smester 4\2110020044\Unit4.dfm=C:\Users\muham\OneDrive\Documents\Embarcadero\Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>2023/05/16 08:05:51.875,D:\Kuliah\smester 4\2110020044\Unit4.pas=C:\Users\muham\OneDrive\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2023/05/16 08:05:53.383,D:\Kuliah\smester 4\2110020044\Unit5.pas=C:\Users\muham\OneDrive\Documents\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2023/05/16 08:05:53.383,D:\Kuliah\smester 4\2110020044\Unit5.dfm=C:\Users\muham\OneDrive\Documents\Embarcadero\Studio\Projects\Unit5.dfm</Transaction>
+    <Transaction>2023/05/16 08:05:54.937,D:\Kuliah\smester 4\2110020044\Project1.dproj=C:\Users\muham\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
